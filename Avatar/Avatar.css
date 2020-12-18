@@ -2,3 +2,11 @@
     border-radius: 50%;
     
 }
+
+img {
+    border-radius: 50%;
+}
+
+img.squere {
+    border-radius: 0;
+}
